@@ -16,3 +16,9 @@ sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 
 kubectl version --client
 
+Installar Nodejs
+
+https://nodejs.org/en/download/
+
+##Prompt Generar App
+
