@@ -7,7 +7,7 @@ export default function Hero() {
           <h1 className="hero-title">
             Equipo hecho para
             <br />
-            durar más que la ruta.
+            durar más que la ruta extrema.
           </h1>
           <p className="hero-sub">
             Mochilas, capas y utensilios de campamento probados en la Patagonia,
